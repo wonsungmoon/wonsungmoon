@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
 **wonsungmoon/wonsungmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
