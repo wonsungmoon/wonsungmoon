@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
+
 <!--
 **wonsungmoon/wonsungmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
